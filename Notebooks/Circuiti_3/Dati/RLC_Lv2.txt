@@ -1,0 +1,1 @@
+#freq (kHz) Vin (V) Vout (V) phdiff (deg)
